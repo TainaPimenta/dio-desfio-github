@@ -1,6 +1,0 @@
-O que é Git Flow?
-O Git Flow é um modelo, uma estratégia ou, ainda, um fluxo de trabalho muito utilizado por equipes de desenvolvimento de software. Ele se destaca por auxiliar na organização do versionamento de códigos.
-
-Publicado em 2010, pelo engenheiro de software holandês, Vincent Driessen, o objetivo do Git Flow era melhorar as organizações das Branches (ramificações) dentro de repositórios e, desta forma, dar mais fluidez ao processo de desenvolvimento de novas funcionalidades, correções de bugs e lançamentos de versões.
-
-## font: Alura
