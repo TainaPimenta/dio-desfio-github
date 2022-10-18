@@ -4,4 +4,3 @@ O Git Flow é um modelo, uma estratégia ou, ainda, um fluxo de trabalho muito u
 Publicado em 2010, pelo engenheiro de software holandês, Vincent Driessen, o objetivo do Git Flow era melhorar as organizações das Branches (ramificações) dentro de repositórios e, desta forma, dar mais fluidez ao processo de desenvolvimento de novas funcionalidades, correções de bugs e lançamentos de versões.
 
 ## font: Alura
-[O que é gitflow?](https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar?gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfXiN2pmq1N2soQ0nbD5tSb0HCG_nuHjca57zrgQ0EE02bFWutRhRNwaApLrEALw_wcB#o-que-e-git-flow?:~:text=Confira%20neste%20artigo%3A-,O%20que%20%C3%A9%20Git%20Flow%3F,-Quando%20utilizar%20o/)
